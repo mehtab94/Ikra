@@ -1,4 +1,4 @@
-# Quran
+# Ikra
 Quran Search
 
 A simple website application which allows one to search the Quran by keywords or by specific Ayats. 
